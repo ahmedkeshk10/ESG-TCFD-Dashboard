@@ -346,11 +346,11 @@ class ESGTCFDDashboard {
         const data = type === 'esg' ? this.data.esgData : this.data.tcfdData;
         container.innerHTML = '';
 
-        // Total companies card
+        //Total companies card
         const totalCard = this.createSummaryCard(
             'إجمالي الشركات',
             data.totalCompanies,
-            '100%',
+            '',
             'total-card'
         );
         container.appendChild(totalCard);
