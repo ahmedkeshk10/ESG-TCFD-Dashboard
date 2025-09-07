@@ -8,8 +8,8 @@ class ESGTCFDDashboard {
                 title: "تقييم الافصاحات المالية المتعلقة بالممارسات البيئية والاجتماعية والحوكمة – ESG",
                 totalCompanies: 346,
                 totals: {
-                    "A+": 8,
-                    "A": 41,
+                    "A+": 7,
+                    "A": 42,
                     "B": 134,
                     "C": 79,
                     "D": 84
@@ -18,7 +18,7 @@ class ESGTCFDDashboard {
                     {
                         name: "Finance",
                         nameAr: "قطاع سوق المال",
-                        ratings: {"A+": 5, "A": 22, "B": 78, "C": 60, "D": 57},
+                        ratings: {"A+": 4, "A": 23, "B": 78, "C": 60, "D": 57},
                         total: 222
                     },
                     {
