@@ -69,8 +69,8 @@ class ESGTCFDDashboard {
                 title: "تقييم الافصاحات المالية المتعلقة بالتغيرات المناخية – TCFD",
                 totalCompanies: 148,
                 totals: {
-                    "A+": 2,
-                    "A": 9,
+                    "A+": 1,
+                    "A": 10,
                     "B": 31,
                     "C": 42,
                     "D": 64
@@ -79,7 +79,7 @@ class ESGTCFDDashboard {
                     {
                         name: "Finance",
                         nameAr: " قطاع سوق المال",
-                        ratings: {"A+": 2, "A": 8, "B": 21, "C": 32, "D": 46},
+                        ratings: {"A+": 1, "A": 9, "B": 21, "C": 32, "D": 46},
                         total: 109
                     },
                     {
