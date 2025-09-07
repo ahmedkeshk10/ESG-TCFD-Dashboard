@@ -8,35 +8,35 @@ class ESGTCFDDashboard {
                 title: "تقييم الافصاحات المالية المتعلقة بالممارسات البيئية والاجتماعية والحوكمة – ESG",
                 totalCompanies: 346,
                 totals: {
-                    "A+": 7,
-                    "A": 42,
-                    "B": 134,
-                    "C": 79,
-                    "D": 84
+                    "A+": 12,
+                    "A": 20,
+                    "B": 93,
+                    "C": 144,
+                    "D": 77
                 },
                 sectors: [
                     {
                         name: "Finance",
                         nameAr: "قطاع سوق المال",
-                        ratings: {"A+": 4, "A": 23, "B": 78, "C": 60, "D": 57},
+                        ratings: {"A+": 8, "A": 16, "B": 47, "C": 101, "D": 50},
                         total: 222
                     },
                     {
                         name: "Insurance",
                         nameAr: "قطاع التأمين",
-                        ratings: {"A+": 0, "A": 7, "B": 21, "C": 6, "D": 5},
+                        ratings: {"A+": 0, "A": 1, "B": 16, "C": 18, "D": 4},
                         total: 39
                     },
                     {
                         name: "Real Estate Finance",
                         nameAr: "التمويل العقاري",
-                        ratings: {"A+": 1, "A": 4, "B": 1, "C": 2, "D": 5},
+                        ratings: {"A+": 2, "A": 0, "B": 3, "C": 3, "D": 5},
                         total: 13
                     },
                     {
                         name: "Consumer Finance",
                         nameAr: "التمويل الاستهلاكي",
-                        ratings: {"A+": 0, "A": 2, "B": 9, "C": 4, "D": 3},
+                        ratings: {"A+": 1, "A": 1, "B": 6, "C": 7, "D": 3},
                         total: 18
                     },
                     {
@@ -48,19 +48,19 @@ class ESGTCFDDashboard {
                     {
                         name: "Financial Leasing",
                         nameAr: "التأجير التمويلي",
-                        ratings: {"A+": 1, "A": 3, "B": 11, "C": 4, "D": 6},
+                        ratings: {"A+": 0, "A": 1, "B": 9, "C": 8, "D": 7},
                         total: 25
                     },
                     {
                         name: "Multi-license Finance",
                         nameAr: "التمويل متعدد الرخص",
-                        ratings: {"A+": 0, "A": 1, "B": 4, "C": 0, "D": 2},
+                        ratings: {"A+": 0, "A": 1, "B": 3, "C": 1, "D": 2},
                         total: 7
                     },
                     {
                         name: "Micro-finance",
                         nameAr: "التمويل متناهي الصغر",
-                        ratings: {"A+": 0, "A": 2, "B": 7, "C": 2, "D": 5},
+                        ratings: {"A+": 0, "A": 0, "B": 6, "C": 5, "D": 5},
                         total: 16
                     }
                 ]
@@ -69,23 +69,23 @@ class ESGTCFDDashboard {
                 title: "تقييم الافصاحات المالية المتعلقة بالتغيرات المناخية – TCFD",
                 totalCompanies: 148,
                 totals: {
-                    "A+": 1,
-                    "A": 10,
-                    "B": 31,
-                    "C": 42,
-                    "D": 64
+                    "A+": 4,
+                    "A": 7,
+                    "B": 23,
+                    "C": 54,
+                    "D": 60
                 },
                 sectors: [
                     {
                         name: "Finance",
                         nameAr: " قطاع سوق المال",
-                        ratings: {"A+": 1, "A": 9, "B": 21, "C": 32, "D": 46},
+                        ratings: {"A+": 4, "A": 6, "B": 16, "C": 40, "D": 43},
                         total: 109
                     },
                     {
                         name: "Insurance",
                         nameAr: "قطاع التأمين",
-                        ratings: {"A+": 0, "A": 0, "B": 5, "C": 4, "D": 5},
+                        ratings: {"A+": 0, "A": 0, "B": 3, "C": 7, "D": 4},
                         total: 14
                     },
                     {
@@ -115,7 +115,7 @@ class ESGTCFDDashboard {
                     {
                         name: "Multi-license Finance",
                         nameAr: "التمويل متعدد الرخص",
-                        ratings: {"A+": 0, "A": 0, "B": 2, "C": 0, "D": 1},
+                        ratings: {"A+": 0, "A": 0, "B": 1, "C": 1, "D": 1},
                         total: 3
                     },
                     {
